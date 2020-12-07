@@ -1,0 +1,4 @@
+common.hxml
+-dce full
+-D analyzer-optimize
+-hl out/main.c
